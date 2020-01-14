@@ -1,0 +1,2 @@
+Create tile map 9 x 9 cells.
+Manually set floor cels. Generate walls. Create atlas buffer based on created tile map.
